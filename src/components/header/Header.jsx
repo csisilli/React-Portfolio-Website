@@ -11,9 +11,8 @@ export const Header = () => {
       <h5>Hello I'm</h5>
       <h5>Caitlin Sisilli</h5>
       <h5 className="text-light">IT Tech</h5>
-      <HeaderSocials />
       <CTA/>
-      
+      <HeaderSocials />
       <br/>
       <div className="me"> 
         <img src ={ME} alt="me"/>

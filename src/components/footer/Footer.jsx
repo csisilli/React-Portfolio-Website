@@ -12,6 +12,12 @@ export const Footer = () => {
         <li><a href="#contact">Contact</a></li>
 
       </ul>
+      <div className="footer__socials">
+        <a href=''></a>
+      </div>
+      <div className="footer__copyright">
+        <small>&copy; Caitlin Sisilli Portfolio</small>
+      </div>
     </footer>
   )
 }
