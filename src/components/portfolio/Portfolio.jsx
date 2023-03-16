@@ -18,10 +18,9 @@ export const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt=" "/>
           </div>
-          <h3>This is a Portfolio Item Title</h3>
+          <h3>Assembler VC-407 (C++)</h3>
           <div className="portfolio__items-cta">
-          <a href="github" className='btn' target='blank' >GitHub</a>
-          <a href="demo" className='btn btn-primary' target='blank'>Live Demo</a>
+          <a href="https://github.com/csisilli/Assembler" className='btn' target='blank' >GitHub</a>
           </div>
         </article>
         {/*End of Portfolio Project 1*/ }
@@ -29,10 +28,9 @@ export const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt=" "/>
           </div>
-          <h3>This is a Portfolio Item Title</h3>
+          <h3>Weather API (Kotlin Java)</h3>
           <div className="portfolio__items-cta">
-          <a href="github" className='btn' target='blank' >GitHub</a>
-          <a href="demo" className='btn btn-primary' target='blank'>Live Demo</a>
+          <a href="https://github.com/csisilli/Projects" className='btn' target='blank' >GitHub</a>
           </div>
         </article>
         {/*End of Portfolio Project 2*/ }
@@ -41,10 +39,9 @@ export const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt=" "/>
           </div>
-          <h3>This is a Portfolio Item Title</h3>
+          <h3>Photography-Portfolio (HTML/CSS)</h3>
           <div className="portfolio__items-cta">
-          <a href="github" className='btn' target='blank' >GitHub</a>
-          <a href="demo" className='btn btn-primary' target='blank'>Live Demo</a>
+          <a href="https://github.com/csisilli/Projects" className='btn' target='blank' >GitHub</a>
           </div>
         </article>
         {/*End of Portfolio Project 3*/ }
@@ -53,9 +50,9 @@ export const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG4} alt=" "/>
           </div>
-          <h3>This is a Portfolio Item Title</h3>
+          <h3>React-Portfolio (Javascript, HTML, CSS, and React)</h3>
           <div className="portfolio__items-cta">
-          <a href="github" className='btn' target='blank' >GitHub</a>
+          <a href="https://github.com/csisilli/React-Portfolio-Website" className='btn' target='blank' >GitHub</a>
           <a href="demo" className='btn btn-primary' target='blank'>Live Demo</a>
           </div>
         </article>
@@ -65,9 +62,9 @@ export const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt=" "/>
           </div>
-          <h3>This is a Portfolio Item Title</h3>
+          <h3>Coin Game Websitev(Javacript, HTMl, and CSS)</h3>
           <div className="portfolio__items-cta">
-          <a href="github" className='btn' target='blank' >GitHub</a>
+          <a href="https://github.com/csisilli/CoinCollectorGames" className='btn' target='blank' >GitHub</a>
           <a href="demo" className='btn btn-primary' target='blank'>Live Demo</a>
           </div>
         </article>
