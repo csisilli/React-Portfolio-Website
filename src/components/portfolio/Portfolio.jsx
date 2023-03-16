@@ -62,7 +62,7 @@ export const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt=" "/>
           </div>
-          <h3>Coin Game Websitev(Javacript, HTMl, and CSS)</h3>
+          <h3>Coin Game Website (Javacript, HTMl, and CSS)</h3>
           <div className="portfolio__items-cta">
           <a href="https://github.com/csisilli/CoinCollectorGames" className='btn' target='blank' >GitHub</a>
           <a href="demo" className='btn btn-primary' target='blank'>Live Demo</a>
